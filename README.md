@@ -5,6 +5,11 @@
 ## __How this works__
 
  Scraps the information from the HTML of the page using `beautifulsoup4` .
+ 
+ ## __Requirements__
+
+ `pip install bs4`<br/><br/>
+ `pip install requests`
 
 ## __Installation__
 
