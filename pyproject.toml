@@ -2,10 +2,10 @@
 name = "GDrivePlayer"
 version = "0.1.0"
 description = "Python module for fetching data from databasegdriveplayer.co"
-authors = ["Plastic Cat <not_plastic_cat@protonmail.com>"]
+authors = ["adenosinetp10 <adenosinetp10@gmail.com>"]
 license = "MIT License"
 readme = "README.md"
-homepage = "https://github.com/notPlasticCat/GDrivePlayer"
+homepage = "https://github.com/adenosinetp10/GDrivePlayer"
 packages = [
     { include = "GDrivePlayer" }
 ]
